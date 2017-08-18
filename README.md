@@ -1,3 +1,0 @@
-# aria2c config
-
-
